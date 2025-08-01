@@ -27,15 +27,15 @@ mcache/
 
 
 
-## 🖼️ High-Level Design
+🖼️ High-Level Design
 
-![img.png](img.png)
+![HLD](https://github.com/user-attachments/assets/3d4ed806-a110-45b8-a8d4-2f4f09c29fe2)
 
-## 🧩 Low-Level Design
+🧩 Low-Level Design
 
-![img_1.png](img_1.png)
+![LLD](https://github.com/user-attachments/assets/73743a54-c510-4c07-86df-b62944f0e706)
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - Java 21
 - Spring Boot
@@ -43,4 +43,4 @@ mcache/
 - Lombok
 - TCP Sockets
 
-Made by [the-sky7](https://github.com/the-sky7)
+<img src="https://img.shields.io/badge/GitHub-the--sky7-blue?logo=github&style=flat-square" alt="GitHub"></img>
