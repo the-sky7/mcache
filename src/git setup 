@@ -1,0 +1,29 @@
+// When We have two Git profile and have to switch between them
+// Make the most frequent one as global and the other as local
+// for local git follow below:
+/* git config --local user.name "Your Name"
+   git config --local user.email "
+            OR
+    after downloading initial file from https://start.spring.io/
+    git init
+    After initializing, you can set your user name:
+    git config user.name "the-sky7"
+    git config user.email "yourpersonal@email.com"
+
+    To test which GitHub account will be used when you push:
+    Check your remote URL:
+    git remote -v
+    If it shows an SSH URL (git@github.com:...), the account depends on your loaded SSH key.
+    Test your SSH key (if using SSH):
+    ssh -T git@github.com
+    This will display the GitHub username associated with your current SSH key.
+
+    Create a repository on your personal GitHub account.
+    Add it as a remote:
+    git remote add origin <your-personal-repo-url>
+    git add .
+    git commit -m "Initial commit"
+    Push your code:
+    git push -u origin main
+    Start developing features, writing tests, and committing changes.
+*/
